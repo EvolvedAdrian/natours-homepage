@@ -19,7 +19,7 @@
 
 The following technologies were used to build this project:
 
-| Technology | Purpose |
+| Technology | Use |
 | :--- | :--- |
 | **Node.js** | JavaScript runtime environment. |
 | **HTML5** | Structural foundation. |
@@ -36,11 +36,11 @@ To run this project locally, you must have **Node.js** installed. You can check 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/EvolvedAdrian/natours-landing.git
+    git clone https://github.com/EvolvedAdrian/natours-homepage.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd natours-landing
+    cd natours-homepage
     ```
 3.  **Install dependencies:**
     ```bash
